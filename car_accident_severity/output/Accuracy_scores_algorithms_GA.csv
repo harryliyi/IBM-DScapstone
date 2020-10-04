@@ -1,0 +1,5 @@
+Algorithm,Accuracy_Score
+Support Vector Machine,0.683854052873061
+Logistic Regression,0.6906270482849027
+Random Forest,0.7927681887699366
+XGBoost,0.8199694122787853
